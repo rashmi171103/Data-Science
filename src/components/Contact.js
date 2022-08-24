@@ -14,12 +14,12 @@ export const Contact = () => {
                                 est.</p>
                         </div>
                         <div className='address'>
-                            <p>742 Evergreen Terrace</p>
-                            <p>Springfield, OR 12345</p>
+                            <p>Sweet Home</p>
+                            <p>India</p>
                         </div>
                         <div className='icons'>
                             <FaPhone style={{marginRight: '1rem'}} />
-                            <p>+1 (555) 123-4567</p>
+                            <p>+91 9876543210</p>
                         </div>
                         <div className='icons'>
                             <FaEnvelope style={{marginRight: '1rem'}} />
